@@ -1,0 +1,32 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "description": "Tether tokens are the most widely used stablecoins, acting as a bridge between fiat currencies and cryptocurrencies to offer stability to the volatile crypto market. Each Tether token is pegged at 1-to-1 with a matching fiat currency and is backed 100% by Tether’s reserves.",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/Gravano452/22222/main/download.png",
+  "attributes": [
+    {
+      "trait_type": "Asset Type",
+      "value": "Stablecoin"
+    },
+    {
+      "trait_type": "Collateral",
+      "value": "USD (Claimed)"
+    },
+    {
+      "trait_type": "Issuer",
+      "value": "Tether Operations Limited"
+    }
+  ],
+  "collection": null,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Gravano452/22222/main/download.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}
